@@ -1,6 +1,4 @@
 # Superstore-Data-Dashboard
-Sure, here's a further expansion:
-
 The 'Sales Dashboard for a Superstore' project focused on generating annual sales reports, analyzing customer behavior, and improving sales strategies. My tasks included data cleaning, processing, and creating actionable dashboards. The project also addressed critical queries on sales trends, product performance, and inventory management.
 
 Project Requirements: Primary Key Performance Indicators (KPIs):
